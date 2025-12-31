@@ -24,7 +24,7 @@ Um sistema de tickets profissional e automatizado, convertido de Python para **D
 ### 2. Passo a Passo
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/DiscordJs-Ticket-Bot-Zeuz.git
+    git clone https://github.com/CodedZeuz/DiscordJs-Ticket-Bot-Zeuz.git
     cd DiscordJs-Ticket-Bot-Zeuz
     ```
 
