@@ -1,0 +1,17 @@
+{
+  "name": "discordjs-ticket-bot-zeuz",
+  "version": "1.0.0",
+  "description": "Discord Ticket Bot converted from Python to Discord.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2"
+  },
+  "author": "Zeuz",
+  "license": "ISC"
+}
+
